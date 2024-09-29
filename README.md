@@ -1,5 +1,7 @@
 # Data Analyst
 
+#### Technical Skills: Data wrangling using SQL and Python, PowerBI (Data modelling and Visualization), Azure Data Platform, Sharepoint (Setup and maintanence), Snowflake
+
 ### Education
 
 ### Work Experience
